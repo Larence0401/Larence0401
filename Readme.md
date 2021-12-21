@@ -1,5 +1,4 @@
 ### Hi there 👋, I am Lars
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 As an avid life-long learner, I deeply enjoy the process of designing and building. I am currently building up my portfolio page in order to pursue a professional career as a self-taught frontend developer.
 
