@@ -2,7 +2,7 @@
 
 As an avid life-long learner, I deeply enjoy the process of designing and building. I am currently building up my portfolio page in order to pursue a professional career as a self-taught frontend developer.
 
-Skills: NEXTJS / REACTJS / JS / HTML / CSS
+Skills: NEXTJS / REACTJS / JS / HTML / CSS / TAILWIND CSS / GIT / JEST / FIREBASE / REDUX / CONTEXT API / RESTFUL APIS
 
 - 🔭 I’m currently enhancing my portfolio page 
 - 🌱 I’m currently learning Typescript and React Native 
