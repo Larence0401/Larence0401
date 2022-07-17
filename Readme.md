@@ -4,8 +4,8 @@ As an avid life-long learner, I deeply enjoy the process of designing and buildi
 
 Skills: NEXTJS / REACTJS / JS / HTML / CSS
 
-- 🔭 I’m currently working on my portfolio page 
-- 🌱 I’m currently learning Typescript, unit testing with Jest 
+- 🔭 I’m currently enhancing my portfolio page 
+- 🌱 I’m currently learning Typescript and React Native 
 - 👯 I’m looking to collaborate on interesting projects built with ReactJS 
 
 
